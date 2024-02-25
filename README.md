@@ -1,6 +1,6 @@
 # nextjs-moralis-metamask-connect-24
 
-This is a minimalistic project to show us how we can connect to metamask using web3modal in nextjs / react.
+This is a minimalistic project to show us how we can connect to metamask using moralis in nextjs / react.
 
 ## Requirements
 
