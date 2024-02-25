@@ -63,7 +63,7 @@ or uninstall
 yarn remove ethers
 ```
 
-## Install web3-react
+## Install dependency
 
 ```bash
 yarn add moralis@^1.2.4
